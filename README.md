@@ -4,8 +4,8 @@ verificate_finger
 Сборка: gradle kt
 
 
-Логика: с фронта приходит одно изображение и с сервера несколько если все совпадает то приходит сообщение success а если нет то error.
+###Логика: с фронта приходит одно изображение и с сервера несколько если все совпадает то приходит сообщение success а если нет то error.
 
-Настройка проекта описана в файле application.properties
+##Настройка проекта описана в файле application.properties
 
 ![alt text](https://www.mdpi.com/sensors/sensors-15-07807/article_deploy/html/images/sensors-15-07807-g008.png)
