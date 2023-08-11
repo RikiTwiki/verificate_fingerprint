@@ -11,4 +11,6 @@ verificate_finger
 ![alt text](https://www.mdpi.com/sensors/sensors-15-07807/article_deploy/html/images/sensors-15-07807-g008.png)
 
 ## Убедитесь что пути проставлены правильно
-```java dataSource.setUrl("jdbc:sqlite:C:/Users/rikitwiki/IdeaProjects/verificate_fingerprint/fingerprints.db"); // Set the path to your SQLite file here```
+```java
+dataSource.setUrl("jdbc:sqlite:C:/Users/rikitwiki/IdeaProjects/verificate_fingerprint/fingerprints.db"); // Set the path to your SQLite file here
+```
