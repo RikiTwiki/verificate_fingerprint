@@ -20,7 +20,7 @@ verificate_finger
 ```java
 dataSource.setUrl("jdbc:sqlite:C:/Users/rikitwiki/IdeaProjects/verificate_fingerprint/fingerprints.db"); // Set the path to your SQLite file here
 ```
-# База данных SQLite таблица users и fingerprints
+# ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) База данных SQLite таблица users и fingerprints
 ```
 CREATE TABLE users (
     user_id INTEGER PRIMARY KEY AUTOINCREMENT,
