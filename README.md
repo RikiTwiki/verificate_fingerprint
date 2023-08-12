@@ -38,3 +38,6 @@ CREATE TABLE fingerprints (
     FOREIGN KEY (user_id) REFERENCES users (user_id)
 );
 ```
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
