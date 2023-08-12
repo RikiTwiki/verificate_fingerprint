@@ -8,7 +8,7 @@ verificate_finger
 
 
 > Инициализируйте [Spring проект](https://start.spring.io/)
->> Склонируйте проект в Spring проект
+>> Склонируйте в Spring проект
 >>> Настройте Структуру проекта - File -> Project Structure -> Project
 
 
